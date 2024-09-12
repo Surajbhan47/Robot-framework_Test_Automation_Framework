@@ -1,0 +1,23 @@
+# Configuration for the test environment
+environment:
+  base_url: "https://example.com"
+  browser: "chrome"
+  timeout: 30
+
+# Credentials for test accounts
+credentials:
+  username: "test_user"
+  password: "secure_password"
+
+# Paths to external resources
+paths:
+  screenshots: "results/screenshots/"
+  logs: "logs/"
+
+# Test execution settings
+#execution:
+#  retry_failed: 2
+#  parallel: true
+#  tags:
+#    - smoke
+#    - regression

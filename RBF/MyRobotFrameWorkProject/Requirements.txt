@@ -1,0 +1,31 @@
+# Required for Robot Framework
+robotframework
+robot
+
+# To Work with the paramaiterization with csv or excel file
+robotframework-datadriver
+robotframework-excellib
+
+
+#To use python lib
+robotframework-pythonlibcore
+
+# Selenium library for browser automation
+robotframework-seleniumlibrary
+
+# If you are using REST API testing
+robotframework-requests
+
+# For database testing
+robotframework-databaselibrary
+
+# Additional custom libraries
+requests
+selenium
+robotframework-stacktrace
+
+# YAML library if you are parsing YAML in your tests
+pyyaml
+
+# To run all test cases parallely
+robotframework-pabot

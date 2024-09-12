@@ -1,0 +1,16 @@
+==============================================================================
+Login                                                                         
+==============================================================================
+Login.Login :: To check the login page with valid credentials                 
+==============================================================================
+Check The login with valid credentials                                | PASS |
+------------------------------------------------------------------------------
+Adding the item into the cart                                         | PASS |
+------------------------------------------------------------------------------
+Login.Login :: To check the login page with valid credentials         | PASS |
+2 tests, 2 passed, 0 failed
+==============================================================================
+Login                                                                 | PASS |
+2 tests, 2 passed, 0 failed
+==============================================================================
+Output:  C:\Users\surajvis\OneDrive - Capgemini\Desktop\Surajbhan Personal\Learnings\Python\RBF\MyRobotFrameWorkProject\tests\test_suits\..\..\..\results\pabot_results\0\output.xml
